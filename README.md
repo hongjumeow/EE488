@@ -1,5 +1,6 @@
 # EE488
-Anomaly Detection Works
+AI Capstone Design <br/>
+prof. Jungwoo Choi
 
 | # | Homework Topic |
 | --- | ----- |
