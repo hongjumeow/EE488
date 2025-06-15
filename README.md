@@ -8,3 +8,4 @@ Anomaly Detection Works
 | 3 | Classification (ArcFace) |
 | 4 | Classification with MIIMII |
 | 5 | Outlier exposure with Energy-bounded Learning |
+| final | DCASE2020 Task 2 |
